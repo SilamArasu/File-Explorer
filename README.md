@@ -6,7 +6,8 @@
   Add the Commons-IO and Commons-Compress libraries in the "files" folder to your project.
 
 ### How it Looks like
-  ![Alt text](files/pics/main.jpg?raw=true "Title")
+  
+  <img alt="App image" src="/files/pics/main.png" width="60%">
   
   You can see the explorer has normal functionalities that every explorer is supposed to have like Open,Rename,Delete,Copy,Move and Paste.
   
@@ -15,17 +16,23 @@
   
 
 ##### Zip/Unzip  
-  ![Alt text](files/pics/zip1.png?raw=true "Title")
-  ![Alt text](files/pics/zip2.png?raw=true "Title")
+  
+  <div style="display:flex;">
+<img alt="App image" src="/files/pics/zip1.PNG" width="45%">  
+<img alt="App image" src="/files/pics/zip2.PNG" width="45%">
+</div>
   You can zip a file/folder by selecting the file and clicking "Zip" Button. The Unzip works the same way.
   
 ##### NullFileFinder 
-  ![Alt text](files/pics/null.png?raw=true "Title")
+  <img alt="App image" src="/files/pics/null.PNG" width="60%">
   This feature finds the Null files in current working directory only. You can select multiple files by holding down Ctrl key and selecting.
   
 ##### Encrytion/Decryption  
-  ![Alt text](files/pics/enc1.png?raw=true "Title")
-  ![Alt text](files/pics/enc2.png?raw=true "Title")
+ 
+  <div style="display:flex;">
+<img alt="App image" src="/files/pics/enc1.PNG" width="50%">   
+<img alt="App image" src="/files/pics/enc2.PNG" width="50%">
+</div>
   
   You can encrypt a file by a key. The Encryption alogorithm used here is AES. The Decrytion works the same way.
   
