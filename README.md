@@ -18,8 +18,8 @@
 ##### Zip/Unzip  
   
   <div style="display:flex;">
-<img alt="App image" src="/files/pics/zip1.PNG" width="45%">  
-<img alt="App image" src="/files/pics/zip2.PNG" width="45%">
+<img alt="App image" src="/files/pics/zip1.PNG" width="48%">  
+<img alt="App image" src="/files/pics/zip2.PNG" width="48%">
 </div>
   You can zip a file/folder by selecting the file and clicking "Zip" Button. The Unzip works the same way.
   
@@ -30,8 +30,8 @@
 ##### Encrytion/Decryption  
  
   <div style="display:flex;">
-<img alt="App image" src="/files/pics/enc1.PNG" width="50%">   
-<img alt="App image" src="/files/pics/enc2.PNG" width="50%">
+<img alt="App image" src="/files/pics/enc1.PNG" width="48%">      
+<img alt="App image" src="/files/pics/enc2.PNG" width="48%">
 </div>
   
   You can encrypt a file by a key. The Encryption alogorithm used here is AES. The Decrytion works the same way.
